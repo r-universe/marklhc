@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "bootmlm"]
+	path = bootmlm
+	url = https://github.com/marklhc/bootmlm
 [submodule "plavaan"]
 	path = plavaan
 	url = https://github.com/marklhc/plavaan
