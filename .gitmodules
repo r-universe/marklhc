@@ -5,6 +5,9 @@
 [submodule "bootmlm"]
 	path = bootmlm
 	url = https://github.com/marklhc/bootmlm
+[submodule "pinsearch"]
+	path = pinsearch
+	url = https://github.com/marklhc/pinsearch
 [submodule "plavaan"]
 	path = plavaan
 	url = https://github.com/marklhc/plavaan
